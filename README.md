@@ -30,6 +30,3 @@ terminal-gpt-chatbot/
 ├── chatbot.py
 ├── README.md
 └── requirements.txt
-
-yaml
-Copy code
